@@ -5,6 +5,8 @@ env/
 
 # Fichiers Python générés
 __pycache__/
+benchmark.csv
+comparison.png
 *.py[cod]
 
 # Fichiers de configuration d'éditeurs
