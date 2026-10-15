@@ -52,4 +52,8 @@ Pour également afficher le graphique à l’écran, ajoutez `--show`.
 
 Le modèle booléen représente `n²` cases, tandis que le modèle lignes représente `n` reines. Cette différence de taille de représentation peut influer sur les performances, mais ne suffit pas à prédire à elle seule le temps de résolution : celui-ci dépend aussi du solveur, de la taille `n` et de l’environnement d’exécution.
 
-Les mesures sont prises séparément pour chaque exécution. La mémoire rapportée est le pic de mémoire résidente du processus, en MiB ; elle comprend donc l’interpréteur et les bibliothèques chargées, pas uniquement les structures du modèle. Il vaut mieux comparer les tendances sur plusieurs tailles dans le même environnement plutôt que de tirer une conclusion d’une mesure isolée.
+Les mesures sont prises séparément pour chaque exécution. 
+
+Un exemple du rendu pour n = 4 5 6 7 8 9 10 11 12
+
+![alt text](image.png)
