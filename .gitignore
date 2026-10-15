@@ -1,0 +1,17 @@
+# Environnements virtuels Python
+venv/
+.venv/
+env/
+
+# Fichiers Python générés
+__pycache__/
+*.py[cod]
+
+# Fichiers de configuration d'éditeurs
+.vscode/
+.idea/
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+Desktop.ini
